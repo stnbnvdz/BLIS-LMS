@@ -1,6 +1,3 @@
-
-![landingpage](https://user-images.githubusercontent.com/21289962/54496079-2ab94000-48a8-11e9-9bcf-b9b15b57f50e.png)
-
                                  .-..-.
    _____                         | || |
   /____/-.---_  .---.  .---.  .-.| || | .---.
@@ -27,5 +24,7 @@ License <https://docs.moodle.org/dev/License>.
 
 Moodle is written in PHP and JavaScript and uses an SQL database for storing
 the data.
+
+![landingpage](https://user-images.githubusercontent.com/21289962/54496079-2ab94000-48a8-11e9-9bcf-b9b15b57f50e.png)
 
 See <https://docs.moodle.org> for details of Moodle's many features.
