@@ -24,5 +24,6 @@ Password: Admin#123
 ```
 ![](screenshot/login.JPG)
 
-### Dashboard
+### Dashboard and Admin View
 ![](screenshot/adminview.png)
+![](screenshot/adminview1.png)
