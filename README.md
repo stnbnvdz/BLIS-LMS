@@ -2,7 +2,7 @@
 
 Project for Object Oriented Programming II  under Dr. Belinda Bunag
 
-![](screenshot/landingpage.png)
+![](screenshot/overview.png)
 
 ## Getting Started
 
@@ -22,6 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 Username: admin
 Password: Admin#123
 ```
+![](screenshot/landingpage.png)
 ![](screenshot/login.JPG)
 
 ### Dashboard and Admin View
