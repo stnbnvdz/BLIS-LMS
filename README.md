@@ -31,3 +31,8 @@ Password: Admin#123
 ## Authors
 
 * **John Austin Benavidez** - [stnbnvdz](https://github.com/stnbnvdz)
+* **Dominic Alfonso**
+* **Joshua Bravo**
+* **Richard Magno**
+* **Ivan Morados**
+* **Diogenes Ramos**
