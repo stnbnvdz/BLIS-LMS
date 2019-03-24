@@ -22,4 +22,4 @@ These instructions will get you a copy of the project up and running on your loc
 Username: admin
 Password: admin
 ```
-![](screenshot/login.jpg)
+![](screenshot/login.JPG)
