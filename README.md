@@ -10,15 +10,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Installation
 ```
-The database is located in database/blislms.sql
+> The database is located in database/blislms.sql
 ```
 
 ```
-Open localhost/phpmyadmin and import the sql file
+> Open localhost/phpmyadmin and import the sql file
 ```
 
 ```
-Go to localhost/blislms then login using 
+> Go to localhost/blislms then login using 
 Username: admin
 Password: admin
 ```
