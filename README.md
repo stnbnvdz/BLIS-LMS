@@ -36,8 +36,6 @@ Password: Admin#123
 
 This project is licensed under the MIT License - see the [LICENSE](https://en.wikipedia.org/wiki/MIT_License) file for details
 
-## Meet the team
-
-* **John Austin Benavidez** • * **Dominic Alfonso** • * **Joshua Bravo** • * **Richard Magno** • * **Ivan Morados** • * **Diogenes Ramos**
+## Authors
 
 ![](screenshot/team.png)
