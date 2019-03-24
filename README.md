@@ -16,3 +16,9 @@ The database is located in database/blislms.sql
 ```
 Open localhost/phpmyadmin and import the sql file
 ```
+
+```
+Go to localhost/blislms then login using 
+Username: admin
+Password: admin
+```
