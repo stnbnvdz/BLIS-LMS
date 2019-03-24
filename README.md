@@ -23,3 +23,6 @@ Username: admin
 Password: Admin#123
 ```
 ![](screenshot/login.JPG)
+
+* Dashboard
+![](screenshot/adminview.png)
