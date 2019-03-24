@@ -28,7 +28,11 @@ Password: Admin#123
 ![](screenshot/adminview.png)
 ![](screenshot/adminview1.png)
 
-## Authors
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://en.wikipedia.org/wiki/MIT_License) file for details
+
+## Meet the team
 
 * **John Austin Benavidez** - [stnbnvdz](https://github.com/stnbnvdz)
 * **Dominic Alfonso**
