@@ -34,7 +34,7 @@ Password: Admin#123
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://en.wikipedia.org/wiki/MIT_License) file for details
+This project is licensed under GNU General Public License v3.0 - see the [LICENSE](https://github.com/stnbnvdz/BLIS-LMS/blob/master/COPYING.txt) file for details
 
 ## Authors
 
