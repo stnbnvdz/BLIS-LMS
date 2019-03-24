@@ -27,3 +27,7 @@ Password: Admin#123
 ### Dashboard and Admin View
 ![](screenshot/adminview.png)
 ![](screenshot/adminview1.png)
+
+## Authors
+
+* **John Austin Benavidez** - [stnbnvdz](https://github.com/stnbnvdz)
