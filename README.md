@@ -22,7 +22,10 @@ These instructions will get you a copy of the project up and running on your loc
 Username: admin
 Password: Admin#123
 ```
+### Landing Page
 ![](screenshot/landingpage.png)
+
+### Login
 ![](screenshot/login.JPG)
 
 ### Dashboard and Admin View
