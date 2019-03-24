@@ -20,6 +20,6 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 > Go to localhost/blislms then login using 
 Username: admin
-Password: admin
+Password: Admin#123
 ```
 ![](screenshot/login.JPG)
