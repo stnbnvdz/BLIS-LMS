@@ -22,13 +22,13 @@ These instructions will get you a copy of the project up and running on your loc
 Username: admin
 Password: Admin#123
 ```
-### Landing Page
+### •Landing Page
 ![](screenshot/landingpage.png)
 
-### Login
+### •Login
 ![](screenshot/login.JPG)
 
-### Dashboard and Admin View
+### •Dashboard and Admin View
 ![](screenshot/adminview.png)
 ![](screenshot/adminview1.png)
 
@@ -38,9 +38,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://en.wi
 
 ## Meet the team
 
-* **John Austin Benavidez** - [stnbnvdz](https://github.com/stnbnvdz)
-* **Dominic Alfonso**
-* **Joshua Bravo**
-* **Richard Magno**
-* **Ivan Morados**
-* **Diogenes Ramos**
+* **John Austin Benavidez** • * **Dominic Alfonso** • * **Joshua Bravo** • * **Richard Magno** • * **Ivan Morados** • * **Diogenes Ramos**
+
+![](screenshot/team.png)
