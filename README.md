@@ -1,6 +1,6 @@
 # Beulah Land Integrated School Learning Management System
 
-Project for Object Oriented Programming II  under Dr. Belinda Bunag
+Project for Object Oriented Programming II  under Engr. Belinda Bunag
 
 ![](screenshot/overview.png)
 
